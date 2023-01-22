@@ -1,0 +1,12 @@
+app/
+env/
+model_svm/
+run.py
+svm_last.joblib
+svm.pkl
+test.py
+Untitled.ipynb
+template/
+web-flask/Tempo.zip
+web-flask/env/
+
