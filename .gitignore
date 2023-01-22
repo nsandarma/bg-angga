@@ -1,4 +1,4 @@
-app/
+./app/
 env/
 model_svm/
 run.py
